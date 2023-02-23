@@ -1,11 +1,7 @@
 ### Hi there, I'm Pedro Reis 👋
 
-- 🔭 I’m currently working on mobile apps
-- 🌱 I’m currently learning front-end featurues
-- 👯 I’m looking to collaborate on mobile and web projects
-- 🤔 I’m looking for help with backend and data bases
-- 💬 Ask me about layout patterns and front-end features
-- 📫 How to reach me: victorbonanho.com
+- 🔭 I’m currently working on System Development Analyst
+- 🌱 I’m currently learning Java
 
 <div align="center">
   <a href="https://github.com/Pedro-Hc-Reis">
