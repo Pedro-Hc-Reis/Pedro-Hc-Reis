@@ -1,20 +1,28 @@
-### Hi there, I'm Pedro Reis 👋
+### Olá, sou Pedro Reis! 👋
 
-- 🔭 I’m currently working on System Development Analyst
-- 🌱 I’m currently learning Java
+- 🔭 Atualmente, estou trabalhando como Analista de Desenvolvimento de Sistemas.
+- 🌱 Estou estudando Java e buscando aprimorar minhas habilidades de desenvolvimento.
+
+### Estatísticas do GitHub 📈
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Hc-Reis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Hc-Reis&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Hc-Reis&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-  ##
+### Contato e Redes Sociais 📫
 
-<div> 
-  <a href="https://www.instagram.com/pedrohenriquecreis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-h-c-reis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+Você pode me encontrar nas seguintes redes sociais:
 
-<!-- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
--->
-</div>
+- [Instagram](https://www.instagram.com/pedrohenriquecreis/)
+- [LinkedIn](https://www.linkedin.com/in/pedro-h-c-reis)
+
+### Projetos em Destaque 🚀
+
+Aqui estão alguns dos meus projetos em destaque:
+
+- [Meu Portfólio](https://pedro-hc-reis.github.io/index.html): Onde compartilho informações sobre mim, minhas experiências, formações acadêmicas, cursos e projetos.
+
+### Contribuições no GitHub 🐍
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pedro-Hc-Reis&theme=github)](https://github.com/Pedro-Hc-Reis)
