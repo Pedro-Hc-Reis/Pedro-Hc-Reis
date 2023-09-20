@@ -24,7 +24,7 @@ Você pode me encontrar nas seguintes redes sociais:
 
 Aqui estão alguns dos meus projetos em destaque:
 
-- [Meu Portfólio]([https://pedro-hc-reis.github.io/index.html](https://github.com/Pedro-Hc-Reis/pedro-hc-reis.github.io)): Onde compartilho informações sobre mim, minhas experiências, formações acadêmicas, cursos e projetos.
+- [Meu Portfólio]((https://github.com/Pedro-Hc-Reis/pedro-hc-reis.github.io)): Onde compartilho informações sobre mim, minhas experiências, formações acadêmicas, cursos e projetos.
 
 <!-- ### Contribuições no GitHub 🐍
 
