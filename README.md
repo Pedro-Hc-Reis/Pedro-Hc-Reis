@@ -26,6 +26,6 @@ Aqui estão alguns dos meus projetos em destaque:
 
 - [Meu Portfólio](https://pedro-hc-reis.github.io/index.html): Onde compartilho informações sobre mim, minhas experiências, formações acadêmicas, cursos e projetos.
 
-### Contribuições no GitHub 🐍
+<!-- ### Contribuições no GitHub 🐍
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pedro-Hc-Reis&theme=github)](https://github.com/Pedro-Hc-Reis)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pedro-Hc-Reis&theme=github)](https://github.com/Pedro-Hc-Reis) -->
