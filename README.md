@@ -8,6 +8,7 @@
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Hc-Reis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Hc-Reis&layout=compact&langs_count=8&theme=tokyonight" alt="Most Used Languages"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedro-Hc-Reis&theme=2077" width="700" height="200" alt="Marcador 1">
 </div>
 
 ### Contato e Redes Sociais 📫
@@ -29,3 +30,4 @@ Aqui estão alguns dos meus projetos em destaque:
 <!-- ### Contribuições no GitHub 🐍
 
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pedro-Hc-Reis&theme=github)](https://github.com/Pedro-Hc-Reis) -->
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Pedro-Hc-Reis.Pedro-Hc-Reis)
