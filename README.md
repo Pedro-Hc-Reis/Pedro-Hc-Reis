@@ -2,6 +2,10 @@
      <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Pedro-Hc-Reis&data=repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />     
 </a>
 
+<a href="https://github.com/Pedro-Hc-Reis">
+    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Pedro-Hc-Reis&data=repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" onerror="this.style.display='none'; console.error('Erro ao carregar o widget do GitHub.')"/>
+</a>
+
 # Olá, sou Pedro Reis! 👋
 
 - 🔭 Atualmente, estou trabalhando como Analista de Desenvolvimento de Sistemas.
