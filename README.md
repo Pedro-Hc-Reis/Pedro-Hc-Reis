@@ -32,11 +32,12 @@ Você pode me encontrar nas seguintes redes sociais:
   <a href="mailto:pedroreis0503@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email-open.png" alt="Email" /></a>
 </div>
 
+<!--
 ### Projetos em Destaque 🚀
 
 Aqui estão alguns dos meus projetos em destaque:
 
 - [Meu Portfólio](https://github.com/Pedro-Hc-Reis/pedro-hc-reis.github.io): Onde compartilho informações sobre mim, minhas experiências, formações acadêmicas, cursos e projetos.
-
+ -->
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Pedro-Hc-Reis.Pedro-Hc-Reis)
